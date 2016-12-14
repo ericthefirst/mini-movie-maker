@@ -1,0 +1,16 @@
+var images = [
+    "frames/demo2//IMG_0332.png",
+    "frames/demo2//IMG_0335.png",
+    "frames/demo2//IMG_0336.png",
+    "frames/demo2//IMG_0338.png",
+    "frames/demo2//IMG_0339.png",
+    "frames/demo2//IMG_0340.png",
+    "frames/demo2//IMG_0341.png",
+    "frames/demo2//IMG_0342.png",
+    "frames/demo2//IMG_0343.png",
+    "frames/demo2//IMG_0344.png",
+    "frames/demo2//IMG_0345.png",
+    "frames/demo2//IMG_0347.png",
+    "frames/demo2//IMG_0348.png",
+    "frames/demo2//IMG_0349.png",
+];
